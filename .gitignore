@@ -1,6 +1,7 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
+!**/src/test/**/target/
 .kotlin
 
 ### IntelliJ IDEA ###
@@ -62,7 +63,7 @@ build/
 hs_err_pid*
 
 
-target/
+
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
